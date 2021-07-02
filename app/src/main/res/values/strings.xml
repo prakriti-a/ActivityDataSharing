@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity Data Sharing</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="submit">SUBMIT</string>
+    <string name="minor">AGE = MINOR</string>
+    <string name="major">AGE = 18+</string>
+</resources>
